@@ -1,0 +1,7 @@
+<PostSalesOrderInvoice xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="SORTICDOC.XSD">
+<Item>
+<SalesOrder>xxx</SalesOrder>
+<SalesOrderLineList></SalesOrderLineList>
+<RoundInvoiceAsCash/>
+</Item>
+</PostSalesOrderInvoice>

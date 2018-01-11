@@ -1,0 +1,9 @@
+<PostArPayment xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="ARSTPYDOC.XSD">
+<Item>
+<Payment>
+<eSignature>eCig</eSignature>
+<Customer>PlaceCustomerHere</Customer>
+<InvoiceToPay><Invoice>PlaceInvoiceHere</Invoice></InvoiceToPay>
+</Payment>
+</Item>
+</PostArPayment>

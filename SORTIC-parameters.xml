@@ -1,0 +1,15 @@
+<PostSalesOrderInvoice xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="SORTIC.XSD">
+	<Parameters>
+		<InvoiceDate/>
+		<OrderType>WhatOrderTypeAmI</OrderType>
+		<PostingPeriod>C</PostingPeriod>
+		<IgnoreWarnings>N</IgnoreWarnings>
+		<ApplyIfEntireDocumentValid>N</ApplyIfEntireDocumentValid>
+		<ValidateOnly>IsThisValidation?</ValidateOnly>
+		<ValidateAllLines>Y</ValidateAllLines>
+		<InvoiceOnlyIfMerchLines>N</InvoiceOnlyIfMerchLines>
+		<InvoiceChgWithoutMerchLine>Y</InvoiceChgWithoutMerchLine>
+		<UpdateStatusWhenNoInvoice>N</UpdateStatusWhenNoInvoice>
+		<OutputAllLinesToReprint>N</OutputAllLinesToReprint>
+	</Parameters>
+</PostSalesOrderInvoice>
